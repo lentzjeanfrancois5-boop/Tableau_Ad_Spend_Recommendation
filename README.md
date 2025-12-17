@@ -8,7 +8,7 @@ A comprehensive data-driven analysis using Tableau to recommend optimal advertis
 Therefore, the final recommendation is to **hold the calculated ad budget of **$2,209.80**** and first stabilize the high return rates before campaign deployment.
 
 # 🔹 Dashboard Preview  
-![Dashboard Screenshot](./dashboard.png)  
+![Dashboard Screenshot](./Screenshot%202025-12-16%20200928.png)  
 
 ## 📈 Project Assets and Visualizations
 
