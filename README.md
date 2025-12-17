@@ -1,4 +1,4 @@
-# Tableau_Ad_Spend_Recommendation
+b# Tableau_Ad_Spend_Recommendation
 A data-driven analysis using Tableau to identify optimal advertising investment opportunities. This project assesses profitability and mitigates risk by cross-referencing high-profit combinations with return rate metrics, culminating in a strategically cautious ad budget recommendation.
 
 ## 💡 Executive Summary
@@ -7,7 +7,8 @@ A comprehensive data-driven analysis using Tableau to recommend optimal advertis
 
 Therefore, the final recommendation is to **hold the calculated ad budget of **$2,209.80**** and first stabilize the high return rates before campaign deployment.
 
----
+# 🔹 Dashboard Preview  
+![Dashboard Screenshot](./dashboard.png)  
 
 ## 📈 Project Assets and Visualizations
 
