@@ -1,5 +1,3 @@
-A data-driven analysis using Tableau to identify optimal advertising investment opportunities. This project assesses profitability and mitigates risk by cross-referencing high-profit combinations with return rate metrics, culminating in a strategically cautious ad budget recommendation.
-
 ## 💡 Executive Summary
 
 A comprehensive data-driven analysis using Tableau to recommend optimal advertising investment. This project identified three high-profit State-Month combinations. However, a crucial cross-reference with the **Avg Profit vs Avg Return Rate** metric revealed that all three areas reside in a **high-risk segment** (high return rate, low efficiency).
